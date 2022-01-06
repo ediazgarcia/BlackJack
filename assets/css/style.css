@@ -1,0 +1,14 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(47, 85, 85, 0.746);
+    color: #FFFFFF;
+}
+
+.title {
+    text-align: center;
+    background-color: rgba(121, 113, 113, 0.733);
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 15px;
+}
